@@ -4,5 +4,5 @@
 ![app](https://github.com/user-attachments/assets/d54cac63-6e8f-4a25-8c97-c3e9f7ff80a4)
 
 
-## Credits
+## Credit
 [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling)
