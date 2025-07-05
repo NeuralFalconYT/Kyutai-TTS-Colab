@@ -227,7 +227,7 @@ def ui():
   with gr.Blocks() as demo:
       # gr.Markdown("## 🎤 Kyutai TTS Voice Cloning Demo")
       gr.Markdown("<center><h1 style='font-size: 40px;'>Kyutai TTS</h1></center>")  
-      gr.Markdown("🌐 [Official GitHub: kyutai-labs](https://github.com/kyutai-labs/delayed-streams-modeling) — Real-time TTS with optimized, production-ready implementation. (This Colab demo uses a simplified wrapper for easy experimentation.)")
+      gr.Markdown("🌐 [Official GitHub: kyutai-labs](https://github.com/kyutai-labs/delayed-streams-modeling) — Real-time TTS with optimized, production-ready implementation. (This Gradio app uses a simplified wrapper for easy experimentation.)")
       with gr.Row():
           with gr.Column(scale=2):
               text_input = gr.Textbox(
